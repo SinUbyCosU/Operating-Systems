@@ -86,3 +86,5 @@ x/24x $esp
 ## License
 
 xv6 is inspired by John Lions's Commentary on UNIX 6th Edition (Peer to Peer Communications; ISBN: 1-57398-013-7). The xv6 sources are licensed under the traditional MIT license.
+
+I have paused it for a while, will get back to this soon!
